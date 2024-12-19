@@ -26,7 +26,7 @@ class AiVeggie implements ActionListener
     {
         try
         {
-        	resources = ResourceBundle.getBundle("resources.Resources", Locale.ENGLISH);
+        	resources = ResourceBundle.getBundle("resources.Resources", Locale.forLanguageTag("en"));
         }
         catch (MissingResourceException mre)
         {
