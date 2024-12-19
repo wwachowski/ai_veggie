@@ -1,1 +1,5 @@
-# ai_veggie
+Autorzy:
+155859 155870
+
+SDK:
+21
