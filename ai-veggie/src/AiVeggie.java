@@ -62,7 +62,7 @@ class AiVeggie implements ActionListener
 
         clips = new Environment();
 
-        clips.load("C:\\Users\\jakub\\Desktop\\ai_veggie\\ai-veggie\\clips\\what_should_i_eat.clp");
+        clips.load("..\\..\\..\\ai-veggie\\clips\\what_should_i_eat.clp");
 
         clips.reset();
 
